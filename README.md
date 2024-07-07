@@ -1,3 +1,4 @@
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -489,3 +490,4 @@ nav {
 <script src="https://kit.fontawesome.com/your-fontawesome-kit-id.js" crossorigin="anonymous"></script>
 </body>
 </html>
+```
